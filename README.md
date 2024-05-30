@@ -1,4 +1,4 @@
-#### Arabic Sign Language Interpreter - Senior Project
+## Arabic Sign Language Interpreter - Senior Project
 
 We are thrilled to announce that our senior project has been nominated as one of the best AI projects in the NGIS 2023 competition. Our project is a real-time Arabic sign language interpreter.
 
